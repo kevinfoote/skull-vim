@@ -21,6 +21,8 @@
 # SKULL  
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
+Forked From: ![beigebrucewayne/skull-vim](https://github.com/beigebrucewayne/skull-vim)
+
 ![skull-theme](https://i.imgur.com/X0ZqDXF.png)  
 
 ## Installation
